@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @esoken92  
-- 👨‍💻 I’m passionate about building modern, scalable full stack web applications.  
-- 🌱 Currently learning Full Stack Development through hands-on projects.  
+- 👨‍💻 I’m always learning new ways to build and ship. 
+- 🌱 I never stop learning Full Stack Development through hands-on projects.  
 - 🚀 Exploring JavaScript, React, Node.js, Express, MongoDB, and more.  
-- 🤝 Open to collaboration once I’ve gained more confidence and skills.  
+- 🤝 Open to collaboration.  
 - 📫 Reach me at: esoken92@gmail.com
 
 <!---
