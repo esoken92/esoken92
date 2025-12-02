@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @esoken92  
 - 👨‍💻 I’m always learning new ways to build and ship. 
-- 🌱 I never stop learning Full Stack Development through hands-on projects.  
-- 🚀 Exploring JavaScript, React, Node.js, Express, MongoDB, and more.  
+- 🌱 I am always tinkering with private projects.  
+- 🚀 Exploring all tech stacks.
 - 🤝 Open to collaboration.  
 - 📫 Reach me at: esoken92@gmail.com
 
