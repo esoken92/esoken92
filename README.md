@@ -1,11 +1,25 @@
-- 👋 Hi, I’m @esoken92  
-- 👨‍💻 I’m always learning new ways to build and ship. 
-- 🌱 I am always tinkering with private projects.  
-- 🚀 Exploring all tech stacks.
-- 🤝 Open to collaboration.  
-- 📫 Reach me at: esoken92@gmail.com
+# Kurt Jonathan
 
-<!---
-esoken92/esoken92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Founder at **[ESO Industries](https://esoind.co.za)** — I build operational
+software that actually ships: inventory, fleet, and tyre-management systems
+running in real businesses, not just demos.
+
+## Featured
+
+- **[VMS V0](https://github.com/esoken92/VMS-V0)** — open-source inventory
+  management template. Next.js 16 + Postgres, append-only stock ledger,
+  barcode/QR scan workflows, RBAC personas, REST + MCP API, offline scan
+  queue, and a Rust (Axum + SQLite + Tauri) offline companion.
+  Fork it, self-host it, build on it.
+- **[TyreSync](https://tyresync.co.za)** — tyre lifecycle management
+  for fleets (SaaS, live).
+
+## What I work with
+
+TypeScript · Next.js / React · Postgres · Rust · Tailwind ·
+self-hosted + Vercel deployments · hardware-adjacent integrations
+(scanners, sensors, RFID)
+
+## Contact
+
+📫 [esoken92@gmail.com](mailto:esoken92@gmail.com) — open to collaboration.
