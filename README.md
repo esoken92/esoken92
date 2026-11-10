@@ -11,6 +11,11 @@ running in real businesses, not just demos.
   barcode/QR scan workflows, RBAC personas, REST + MCP API, offline scan
   queue, and a Rust (Axum + SQLite + Tauri) offline companion.
   Fork it, self-host it, build on it.
+- **[Zuri LMS](https://github.com/esoken92/zuri-lms)** — open-source community
+  edition of the Zuri platform: tyre inspections, scrap tracking and fleet
+  logistics for small fleets. Next.js 16 + Supabase, MIT licensed,
+  self-hosted. [Site](https://zuri-lms.vercel.app) (marketing page — clone
+  the repo to run it).
 - **[TyreSync](https://tyresync.co.za)** — tyre lifecycle management
   for fleets (SaaS, live).
 
